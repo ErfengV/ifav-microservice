@@ -1,0 +1,3 @@
+# Project exclude paths
+/fav-domain/target/
+/fav-restapi/target/
